@@ -10,11 +10,14 @@ function getMovieInfo () {
     }
     if (!error && response.statusCode === 200) {
         var bodyParse = JSON.parse(body)
-        console.log(bodyParse.Title);
-        console.log(bodyParse.Year);
-
+        console.log('Title: ' + bodyParse.Title);
+        console.log('Year: ' + bodyParse.Year);
+        console.log('IMDB Rating: ' + bodyParse.imdbRating);
+        console.log('Country: ' + bodyParse.Country);
+        console.log('Language: ' + bodyParse.Language);
+        console.log('Actors: ' + bodyParse.Actors);
+        console.log('rotten tomatoes url');
     }    
 });
 }
-
 getMovieInfo();
