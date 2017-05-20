@@ -4,12 +4,11 @@ let command = process.argv[2];
 let input = process.argv[3];
 
 function appendLog (param) {
-    for(let key in param) {
-        fs.appendFileSync('log.txt',param + '\n',(error)=>{
-            if (error) throw error;
-            console.log(param);
-        })
-    }
+    let options = {
+        encoding: 'utf8',
+    };
+    fs.appendFileSync('log.txt',JSON.stringify(param),[options]);
+    console.log(param)
 }
 
 //Twitter
@@ -21,14 +20,15 @@ function getTwitter() {
         count: 20,
         trim_user: 1
     };
+    let userTweet = {}
     function Tweet(tweet){
         this.tweet = tweet;
     }
     client.get('statuses/user_timeline', options, function (error, tweets, response) {
         for (i = 0; i < tweets.length; i++) {
-            let userTweet = new Tweet(tweets[i].text);
-            appendLog(userTweet);
+            userTweet = new Tweet(tweets[i].text);
         }
+        appendLog(userTweet);
     });
 }
 
@@ -44,7 +44,8 @@ function getSpotify(input) {
     }
     spotify.search({
         type: 'track',
-        query: input
+        query: input,
+        limit: 5
     }, function (err, data) {
         if (err) {
             console.log('Error occurred: ' + err);
@@ -58,6 +59,7 @@ function getSpotify(input) {
             userSpotifyData = new SpotifyData (artistName, songName, previewURL, albumName); 
             appendLog(userSpotifyData);
         }
+        
         // for(let key in userSpotifyData) {
         //     console.log(JSON.parse(userSpotifyData));
         // }
