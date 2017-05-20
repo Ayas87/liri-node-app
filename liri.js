@@ -78,7 +78,7 @@ function liri (command, input) {
     } else if (command === 'spotify-this-song') {
         getSpotify(input);
     } else if (command === 'movie-this') {
-        getMovieInfo();
+        getMovieInfo(input);
     } else if (command === 'do-what-it-says') {
         getDoWhatItSays();
     } else {
