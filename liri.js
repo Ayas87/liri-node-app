@@ -3,14 +3,21 @@ let command = process.argv[2];
 let input = process.argv[3];
 let Twitter = require('twitter');
 
-let client = new Twitter(keys);
-let options = {count: 20};
+let client = new Twitter(keys.twitterKeys);
+let options = {
+    screen_name: 'RandyLam87',
+    count: 20,
+    trim_user: 1
+};
+
 
 
 if (command === 'my-tweets') {
     // This will show your last 20 tweets and when they were created at in your terminal/bash window.
     client.get('statuses/user_timeline', options, function(error, tweets, response) {
-        console.log(tweets)
+        for(i=0; i < tweets.length; i++) {
+            console.log(tweets[i].text)
+        }
     })
     console.log('twitter');
 } else if (command === 'spotify-this-song') {
