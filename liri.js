@@ -2,6 +2,16 @@ let keys = require('./keys.js');
 let fs = require('fs');
 let command = process.argv[2];
 let input = process.argv[3];
+
+function appendLog (param) {
+    for(let key in param) {
+        fs.appendFileSync('log.txt',param + '\n',(error)=>{
+            if (error) throw error;
+            console.log(param);
+        })
+    }
+}
+
 //Twitter
 function getTwitter() {
     let Twitter = require('twitter');
@@ -11,10 +21,13 @@ function getTwitter() {
         count: 20,
         trim_user: 1
     };
-
+    function Tweet(tweet){
+        this.tweet = tweet;
+    }
     client.get('statuses/user_timeline', options, function (error, tweets, response) {
         for (i = 0; i < tweets.length; i++) {
-            console.log(tweets[i].text);
+            let userTweet = new Tweet(tweets[i].text);
+            appendLog(userTweet);
         }
     });
 }
@@ -22,6 +35,13 @@ function getTwitter() {
 //Spotify
 function getSpotify(input) {
     let spotify = require('spotify');
+    let userSpotifyData = {}
+    function SpotifyData(artistName, songName, previewURL, albumName){
+        this.artistName = artistName,
+        this.songName = songName,
+        this.previewURL = previewURL,
+        this.albumName = albumName;
+    }
     spotify.search({
         type: 'track',
         query: input
@@ -31,11 +51,16 @@ function getSpotify(input) {
             return;
         }
         for(i=0; i<data.tracks.items.length; i++){
-            console.log('Artist: ' + data.tracks.items[i].artists[0].name);
-            console.log('Song Name: ' + data.tracks.items[i].name);
-            console.log('Song Name: ' + data.tracks.items[i].preview_url);
-            console.log('Album: ' + data.tracks.items[i].album.name + '\n');
+            let artistName = data.tracks.items[i].artists[0].name;
+            let songName = data.tracks.items[i].name;
+            let previewURL = data.tracks.items[i].preview_url;
+            let albumName = data.tracks.items[i].album.name;
+            userSpotifyData = new SpotifyData (artistName, songName, previewURL, albumName); 
+            appendLog(userSpotifyData);
         }
+        // for(let key in userSpotifyData) {
+        //     console.log(JSON.parse(userSpotifyData));
+        // }
     });
 }
 
@@ -58,7 +83,7 @@ function getMovieInfo() {
             console.log('Actors: ' + bodyParse.Actors);
             console.log('rotten tomatoes url');
         } else {
-            console.log('No response');
+            console.log('Error ' + response.statusCode + ': No response');
         }
     });
 }
