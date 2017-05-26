@@ -1,1 +1,100 @@
-{"artistName":"Adele","songName":"Hello","previewURL":"https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null","albumName":"Hello"}{"artistName":"Adele","songName":"Hello","previewURL":"https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null","albumName":"25"}{"artistName":"J. Cole","songName":"Hello","previewURL":"https://p.scdn.co/mp3-preview/4b3df43120daf5eea2b2a21502fe2b359ec17d4f?cid=null","albumName":"2014 Forest Hills Drive"}{"artistName":"Karol G","songName":"Hello","previewURL":"https://p.scdn.co/mp3-preview/d940adfb296ccc4a275078e1b1a921da097ba0fc?cid=null","albumName":"Hello"}{"artistName":"Zooey Deschanel","songName":"Hello","previewURL":"https://p.scdn.co/mp3-preview/3c1802d9bb1e80348da770f1c38d2e63b7a2e5c6?cid=null","albumName":"TROLLS (Original Motion Picture Soundtrack)"}{"artistName":"OMFG","songName":"Hello","previewURL":"https://p.scdn.co/mp3-preview/9a7358499d83ba55d6fc961576ace6a8aeb96180?cid=null","albumName":"Hello"}{"artistName":"Chill Vibes","songName":"Hello","previewURL":"https://p.scdn.co/mp3-preview/2e93d3cd1abb2eb5e0ee3d32013fccf78e785947?cid=null","albumName":"Hello"}{"artistName":"CL","songName":"Hello Bitches","previewURL":"https://p.scdn.co/mp3-preview/a6f622422822188dca0ad53b634a11d26920f774?cid=null","albumName":"Hello Bitches"}{"artistName":"Lionel Richie","songName":"Hello","previewURL":"https://p.scdn.co/mp3-preview/275708f1b74103c12f338041d90b4f46de38d3c7?cid=null","albumName":"Can't Slow Down"}{"artistName":"Phil Collins","songName":"You Can't Hurry Love - 2016 Remastered","previewURL":"https://p.scdn.co/mp3-preview/cddedd4dd7339f938daad2355c166f0816ee9271?cid=null","albumName":"Hello, I Must Be Going! (Deluxe Edition)"}{"artistName":"Berner","songName":"Hello","previewURL":"https://p.scdn.co/mp3-preview/44e6110a255792969505a8d894a990dd76ee7351?cid=null","albumName":"Hello"}{"artistName":"Erykah Badu","songName":"Hello","previewURL":"https://p.scdn.co/mp3-preview/d1b6b2b9eb6c0db9189bcf5221e9053af34398b6?cid=null","albumName":"But You Caint Use My Phone (Mixtape)"}{"artistName":"The Oh Hellos","songName":"Hello My Old Heart","previewURL":"https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=null","albumName":"The Oh Hellos EP"}{"artistName":"Beastie Boys","songName":"Intergalactic - 2009 Digital Remaster","previewURL":"https://p.scdn.co/mp3-preview/003a22f493b49975efb28cbe0f1b59c2496992f4?cid=null","albumName":"Hello Nasty (Deluxe Version) [Remastered]"}{"artistName":"Flo Rida","songName":"Hello Friday (feat. Jason Derulo)","previewURL":"https://p.scdn.co/mp3-preview/9d4a765a30fc6d12f8da222a6d5b9fd0fbe04967?cid=null","albumName":"Hello Friday (feat. Jason Derulo)"}{"artistName":"Fickle Friends","songName":"Hello Hello","previewURL":"https://p.scdn.co/mp3-preview/5c63e288c172095667e21e45a9fd85d470226cc3?cid=null","albumName":"Hello Hello"}{"artistName":"Andrew Rannells","songName":"Hello!","previewURL":"https://p.scdn.co/mp3-preview/f6a4ca9fb8262eac48cffc0f8f068190d515ba47?cid=null","albumName":"The Book Of Mormon (Original Broadway Cast Recording)"}{"artistName":"Karmin","songName":"Brokenhearted","previewURL":"https://p.scdn.co/mp3-preview/78d71b66c2fe09fe1ff646b1175da554852db8bb?cid=null","albumName":"Hello"}{"artistName":"Matthew West","songName":"Hello, My Name Is","previewURL":"https://p.scdn.co/mp3-preview/3d7f42a2ac16426ddb056642dd734c65e8568b9f?cid=null","albumName":"Into the Light"}{"artistName":"Explosions In The Sky","songName":"Hello!","previewURL":"https://p.scdn.co/mp3-preview/234f634d3eddb0536f9f6f7f5deeed5ab086f8f8?cid=null","albumName":"Manglehorn (Original Motion Picture Soundtrack)"}{"tweet":"@LauraArcePhD yay for twitter :D #CSUF_2_20_13_biol309"}
+artistName: Adele
+songName: Hello
+previewURL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null
+albumName: Hello
+
+artistName: Adele
+songName: Hello
+previewURL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=null
+albumName: 25
+
+artistName: J. Cole
+songName: Hello
+previewURL: https://p.scdn.co/mp3-preview/4b3df43120daf5eea2b2a21502fe2b359ec17d4f?cid=null
+albumName: 2014 Forest Hills Drive
+
+artistName: Karol G
+songName: Hello
+previewURL: null
+albumName: Hello
+
+artistName: Zooey Deschanel
+songName: Hello
+previewURL: https://p.scdn.co/mp3-preview/3c1802d9bb1e80348da770f1c38d2e63b7a2e5c6?cid=null
+albumName: TROLLS (Original Motion Picture Soundtrack)
+
+artistName: OMFG
+songName: Hello
+previewURL: https://p.scdn.co/mp3-preview/9a7358499d83ba55d6fc961576ace6a8aeb96180?cid=null
+albumName: Hello
+
+artistName: Chill Vibes
+songName: Hello
+previewURL: https://p.scdn.co/mp3-preview/2e93d3cd1abb2eb5e0ee3d32013fccf78e785947?cid=null
+albumName: Hello
+
+artistName: CL
+songName: Hello Bitches
+previewURL: https://p.scdn.co/mp3-preview/a6f622422822188dca0ad53b634a11d26920f774?cid=null
+albumName: Hello Bitches
+
+artistName: Berner
+songName: Hello
+previewURL: https://p.scdn.co/mp3-preview/44e6110a255792969505a8d894a990dd76ee7351?cid=null
+albumName: Hello
+
+artistName: Lionel Richie
+songName: Hello
+previewURL: null
+albumName: Can't Slow Down
+
+artistName: Phil Collins
+songName: You Can't Hurry Love - 2016 Remastered
+previewURL: https://p.scdn.co/mp3-preview/cddedd4dd7339f938daad2355c166f0816ee9271?cid=null
+albumName: Hello, I Must Be Going! (Deluxe Edition)
+
+artistName: Temple Of The Dog
+songName: Say Hello 2 Heaven
+previewURL: null
+albumName: Temple Of The Dog
+
+artistName: Erykah Badu
+songName: Hello
+previewURL: null
+albumName: But You Caint Use My Phone (Mixtape)
+
+artistName: The Oh Hellos
+songName: Hello My Old Heart
+previewURL: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=null
+albumName: The Oh Hellos EP
+
+artistName: Beastie Boys
+songName: Intergalactic - 2009 Digital Remaster
+previewURL: null
+albumName: Hello Nasty (Deluxe Version) [Remastered]
+
+artistName: Flo Rida
+songName: Hello Friday (feat. Jason Derulo)
+previewURL: https://p.scdn.co/mp3-preview/9d4a765a30fc6d12f8da222a6d5b9fd0fbe04967?cid=null
+albumName: Hello Friday (feat. Jason Derulo)
+
+artistName: Fickle Friends
+songName: Hello Hello
+previewURL: null
+albumName: Hello Hello
+
+artistName: Andrew Rannells
+songName: Hello!
+previewURL: null
+albumName: The Book Of Mormon (Original Broadway Cast Recording)
+
+artistName: Karmin
+songName: Brokenhearted
+previewURL: https://p.scdn.co/mp3-preview/78d71b66c2fe09fe1ff646b1175da554852db8bb?cid=null
+albumName: Hello
+
+artistName: Matthew West
+songName: Hello, My Name Is
+previewURL: null
+albumName: Into the Light
+

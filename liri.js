@@ -7,8 +7,12 @@ function appendLog (param) {
     let options = {
         encoding: 'utf8',
     };
-    fs.appendFileSync('log.txt',JSON.stringify(param),[options]);
-    console.log(param)
+    for(let key in param){
+        fs.appendFileSync('log.txt',key + ": " + param[key] + "\n",[options]);
+        console.log(key + ": " + param[key]);
+    }
+    fs.appendFileSync('log.txt',"\n",[options]);
+    console.log();
 }
 
 //Twitter
@@ -20,28 +24,50 @@ function getTwitter() {
         count: 20,
         trim_user: 1
     };
-    let userTweet = {}
+    let userTweet = {};
     function Tweet(tweet){
         this.tweet = tweet;
     }
     client.get('statuses/user_timeline', options, function (error, tweets, response) {
         for (i = 0; i < tweets.length; i++) {
             userTweet = new Tweet(tweets[i].text);
+            appendLog(userTweet);
         }
-        appendLog(userTweet);
     });
 }
 
 //Spotify
 function getSpotify(input) {
     let spotify = require('spotify');
-    let userSpotifyData = {}
+    let userSpotifyData = {};
     function SpotifyData(artistName, songName, previewURL, albumName){
         this.artistName = artistName,
         this.songName = songName,
         this.previewURL = previewURL,
         this.albumName = albumName;
     }
+
+    if (input === null) {
+        spotify.search({
+            type: 'track',
+            query: 'The Sign',
+            limit: 1
+        }, function (err, data){
+            if (err) {
+                console.log('Error occurred: ' + err);
+                return;
+            }
+            for(i=0; i<data.tracks.items.length; i++){
+                let artistName = data.tracks.items[i].artists[0].name;
+                let songName = data.tracks.items[i].name;
+                let previewURL = data.tracks.items[i].preview_url;
+                let albumName = data.tracks.items[i].album.name;
+                userSpotifyData = new SpotifyData (artistName, songName, previewURL, albumName); 
+                appendLog(userSpotifyData);
+            }
+        });
+    } else {
+    
     spotify.search({
         type: 'track',
         query: input,
@@ -59,18 +85,17 @@ function getSpotify(input) {
             userSpotifyData = new SpotifyData (artistName, songName, previewURL, albumName); 
             appendLog(userSpotifyData);
         }
-        
-        // for(let key in userSpotifyData) {
-        //     console.log(JSON.parse(userSpotifyData));
-        // }
     });
+    }
 }
 
 //IMDB
-function getMovieInfo() {
+function getMovieInfo(input) {
     let request = require('request');
-    let queryUrl = "http://www.omdbapi.com/?t=" + input + "&y=&plot=short&r=json";
-
+    let queryUrl = "http://www.omdbapi.com/?t=" + input + "&apikey=40e9cece&y=&plot=short&r=json";
+    if(input === null) {
+        let queryUrl = let queryUrl = "http://www.omdbapi.com/?t=mr+nobody&apikey=40e9cece&y=&plot=short&r=json";
+    }
     request(queryUrl, function (error, response, body) {
         if (error) {
             return console.log(error);
