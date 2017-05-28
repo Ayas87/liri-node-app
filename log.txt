@@ -98,3 +98,507 @@ songName: Hello, My Name Is
 previewURL: null
 albumName: Into the Light
 
+artistName: William Ryan Fritch
+songName: Undefined
+previewURL: https://p.scdn.co/mp3-preview/493d52ddfb17e87e5a1624530f6db44bf5bfda98?cid=null
+albumName: New Words for Old Wounds
+
+artistName: Adairs Run
+songName: Undefined
+previewURL: https://p.scdn.co/mp3-preview/4c36532e7a5e355c7ae1f1033b05266c56f17880?cid=null
+albumName: Undefined
+
+artistName: As I Lay Dying
+songName: Undefined
+previewURL: https://p.scdn.co/mp3-preview/c4c2763225354323b0e6f4e795f3a0ecf319cb42?cid=null
+albumName: Frail Words Collapse
+
+artistName: Jeremy Passion
+songName: Undefined
+previewURL: https://p.scdn.co/mp3-preview/38e82ff5fd73fba51e806e1975152b3ee52f1e09?cid=null
+albumName: For More Than a Feeling
+
+artistName: Afta-1
+songName: Superheroes (Remix)
+previewURL: https://p.scdn.co/mp3-preview/ee2bfbb19e2b9fb728ba84a16d7fa4f826ec39ce?cid=null
+albumName: Undefined
+
+artistName: Afta-1
+songName: Flyerthanshe
+previewURL: https://p.scdn.co/mp3-preview/17461e7d706235e9d32f2072ee0ac1043ece5027?cid=null
+albumName: Undefined
+
+artistName: Afta-1
+songName: Medianos
+previewURL: https://p.scdn.co/mp3-preview/63267ee408e6f1b17c7bca18ac571d0107d3de44?cid=null
+albumName: Undefined
+
+artistName: Afta-1
+songName: Lil' bit of Ice
+previewURL: https://p.scdn.co/mp3-preview/62525a90512d9622e9cccea6d2552568f4f72d2d?cid=null
+albumName: Undefined
+
+artistName: Afta-1
+songName: Tiden Flyver (Remix)
+previewURL: https://p.scdn.co/mp3-preview/70d5c2e9066fb128aa9bfa8f2c75b66275bfefd7?cid=null
+albumName: Undefined
+
+artistName: Downsyde
+songName: Undefined
+previewURL: https://p.scdn.co/mp3-preview/343fc7b7adcfb9fde6fe2454f170d979b0c134ba?cid=null
+albumName: Land Of The Giants
+
+artistName: Clear Conscience
+songName: Undefined (Feat. Aaron Borowitz)
+previewURL: https://p.scdn.co/mp3-preview/e5cd02eb581c67cb945042b5d9fd07f84f179cb6?cid=null
+albumName: Love Vibes EP
+
+artistName: Afta-1
+songName: Fortune (Remix)
+previewURL: https://p.scdn.co/mp3-preview/50cc746ed127f5b294cc96a0eab285089985cb2c?cid=null
+albumName: Undefined
+
+artistName: Afta-1
+songName: Ahmad III
+previewURL: https://p.scdn.co/mp3-preview/7d64551ba63b5f77af5d0525ca18cea4e8c973b3?cid=null
+albumName: Undefined
+
+artistName: Afta-1
+songName: Sway Close
+previewURL: https://p.scdn.co/mp3-preview/5e5228e350085d93357c96fdc532670dcfd256ee?cid=null
+albumName: Undefined
+
+artistName: Afta-1
+songName: How Eye
+previewURL: https://p.scdn.co/mp3-preview/d38c275d52646851441d24ddc25e2d69687bf96f?cid=null
+albumName: Undefined
+
+artistName: Afta-1
+songName: Toast to Them
+previewURL: https://p.scdn.co/mp3-preview/ddcc886f0292a9f52eaac77e6fd448debbcbfb9d?cid=null
+albumName: Undefined
+
+artistName: Afta-1
+songName: Universalove
+previewURL: https://p.scdn.co/mp3-preview/ecdb5894a5cb12f2b99ce6592b7a3d2a4005f5b0?cid=null
+albumName: Undefined
+
+artistName: Paul Leonard-Morgan
+songName: Undefined Space
+previewURL: https://p.scdn.co/mp3-preview/e1398bed7d2212c6aa7dcecf796adb6d1aa51383?cid=null
+albumName: Dredd: Original Motion Picture Soundtrack
+
+artistName: Afta-1
+songName: Temple
+previewURL: https://p.scdn.co/mp3-preview/c8fa9f954b92a69ceefa32332da3493daf6d91b6?cid=null
+albumName: Undefined
+
+artistName: Afta-1
+songName: Intro Dream
+previewURL: https://p.scdn.co/mp3-preview/caaa51ca14b0cc47eee37340b74f4c8e4149af9d?cid=null
+albumName: Undefined
+
+artistName: Gwen Stefani
+songName: Hollaback Girl
+previewURL: null
+albumName: Love Angel Music Baby
+
+artistName: Gwen Stefani
+songName: Hollaback Girl
+previewURL: null
+albumName: Love Angel Music Baby (Deluxe Version)
+
+artistName: Scott Bradlee's Postmodern Jukebox
+songName: Hollaback Girl
+previewURL: https://p.scdn.co/mp3-preview/9e43f2fcad3c606504b600024d10b2736ac71493?cid=null
+albumName: Swing The Vote!
+
+artistName: The Cheer Squad
+songName: Hollaback Girl
+previewURL: https://p.scdn.co/mp3-preview/ae11429aa65b96083323717a2f524b9d41e85052?cid=null
+albumName: Cheering Mix 2012 - Songs for Cheerleading
+
+artistName: Gwen Stefani
+songName: Hollaback Girl - Hollatronix Remix by Diplo
+previewURL: null
+albumName: Love Angel Music Baby (Deluxe Version)
+
+artistName: Gwen Stefani
+songName: Hollaback Girl - Dancehollaback Remix by Tony Kanal
+previewURL: null
+albumName: Love Angel Music Baby (Deluxe Version)
+
+artistName: Kids Hit Masters
+songName: Hollaback Girl
+previewURL: https://p.scdn.co/mp3-preview/2197ede59c063c757487020106b86bdea44f2df0?cid=null
+albumName: Kids Rap'n The Hits Vol. 3
+
+artistName: Lo Key
+songName: Hollaback Boy
+previewURL: https://p.scdn.co/mp3-preview/31b9074e35c19c5735d8bf83884d354952317b48?cid=null
+albumName: Jack Yo Beatz Volume 1
+
+artistName: DJ Crazy J Rodriguez
+songName: Hollaback Thriller Girl
+previewURL: https://p.scdn.co/mp3-preview/3ac762f03a33684f00c2a948450c98611451b652?cid=null
+albumName: DJ Crazy J Rodriguez
+
+artistName: Girl Authority
+songName: Hollaback Girl
+previewURL: null
+albumName: Girl Authority
+
+artistName: Zacks Super Workout
+songName: Hollaback
+previewURL: https://p.scdn.co/mp3-preview/50f0828b22ea44b7783a81359109c9fe0a168c77?cid=null
+albumName: 2016 | 30 Music Tracks | WK II (Deluxe Edition)
+
+artistName: Workout Remix Factory
+songName: Hollaback Girl Girl (ReMixed)
+previewURL: https://p.scdn.co/mp3-preview/eec7a67828d82858fb1ad89c042a14503f813214?cid=null
+albumName: Workout -100 Hits Remixed
+
+artistName: Johnny Likes Music
+songName: Hollaback
+previewURL: https://p.scdn.co/mp3-preview/0671b3386dab8f53b0b2b6c64cc542a278b1cde8?cid=null
+albumName: Booster
+
+artistName: Johnny Likes Music
+songName: Hollaback
+previewURL: https://p.scdn.co/mp3-preview/0671b3386dab8f53b0b2b6c64cc542a278b1cde8?cid=null
+albumName: Dave Kurtis - Winter Session 2010
+
+artistName: Fringe
+songName: Hollaback Girl - Power Remix
+previewURL: https://p.scdn.co/mp3-preview/c74c89a580f8b904af5d8894aa3bafed266cf4e1?cid=null
+albumName: Best of Shape - Walking Workout
+
+artistName: Richie Righteous
+songName: Hollaback
+previewURL: https://p.scdn.co/mp3-preview/4d44ec61d59bb1b71c7f8891b343c0c2aa2a03d8?cid=null
+albumName: Censorship
+
+artistName: Famis
+songName: Hollaback
+previewURL: https://p.scdn.co/mp3-preview/823bd41510ecf8e35fc60fdbfc985337546d916e?cid=null
+albumName: World Premiere
+
+artistName: The Sing-Off Contestants
+songName: Bittersweet Symphony / Baba O'Riley / Last Friday Night / Hollaback Girl
+previewURL: https://p.scdn.co/mp3-preview/e3a2052d9cd592dcc7330211b9f7dbdfdb620076?cid=null
+albumName: The Sing-Off: Season 3: Episode 10 - Mastermix Medleys & Judge's Choice
+
+artistName: Hollaback
+songName: T.O.T.Y
+previewURL: https://p.scdn.co/mp3-preview/458e7fb0fb034095e8bf2b06beb6903f3b7e834d?cid=null
+albumName: T.O.T.Y
+
+artistName: The Instructor
+songName: Hollaback Girl
+previewURL: https://p.scdn.co/mp3-preview/2a6cfe679cf7f96e85eaebe493986d8282333546?cid=null
+albumName: Gym & Fitness Sessions Vol 11
+
+tweet: @Macaroons11 working on node son
+
+tweet: @LauraArcePhD yay for twitter :D #CSUF_2_20_13_biol309
+
+artistName: Backstreet Boys
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+albumName: The Hits--Chapter One
+
+artistName: Backstreet Boys
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=null
+albumName: Millennium
+
+artistName: Backstreet Boys
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=null
+albumName: 90 Sweet 90s Hits!
+
+artistName: Backstreet Boys
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=null
+albumName: The Essential Backstreet Boys
+
+artistName: Glee Cast
+songName: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+previewURL: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=null
+albumName: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+
+artistName: Anthem Lights
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=null
+albumName: Covers Part IV
+
+artistName: Brittany Howard
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=null
+albumName: I Want It That Way
+
+artistName: Kyle Olthoff
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=null
+albumName: I Want It That Way
+
+artistName: Dynamite Boy
+songName: I Want It That Way
+previewURL: null
+albumName: Punk Goes Pop
+
+artistName: Boyce Avenue
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=null
+albumName: New Acoustic Sessions, Vol. 3
+
+artistName: "Weird Al" Yankovic
+songName: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+previewURL: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=null
+albumName: Poodle Hat
+
+artistName: Steel Panther
+songName: I Want It That Way
+previewURL: null
+albumName: I Want It That Way
+
+artistName: "Weird Al" Yankovic
+songName: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+previewURL: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=null
+albumName: The Essential "Weird Al" Yankovic
+
+artistName: Landon Austin & Julia Sheer
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=null
+albumName: I Want It That Way
+
+artistName: Backstreet Boys
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=null
+albumName: NOW That's What I Call 90s Pop
+
+artistName: Backstreet Boys
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=null
+albumName: NKOTBSB
+
+artistName: Jason Chen
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=null
+albumName: I Want It That Way
+
+artistName: Scott Bradlee's Postmodern Jukebox
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null
+albumName: Selfies on Kodachrome
+
+artistName: Scott Bradlee's Postmodern Jukebox
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null
+albumName: PMJ Is For Lovers: The Love Song Collection
+
+artistName: FROIDZ
+songName: I Want It That Way
+previewURL: https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67?cid=null
+albumName: I Want It That Way
+
+artistName: Harry Styles
+songName: Sign of the Times
+previewURL: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=null
+albumName: Sign of the Times
+
+artistName: Harry Styles
+songName: Sign of the Times
+previewURL: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=null
+albumName: Harry Styles
+
+artistName: Ty Dolla $ign
+songName: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+previewURL: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+albumName: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+
+artistName: Jeremih
+songName: Impatient
+previewURL: null
+albumName: Late Nights: The Album
+
+artistName: Ace of Base
+songName: The Sign
+previewURL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Mac Miller
+songName: Cinderella (feat. Ty Dolla $ign)
+previewURL: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=null
+albumName: The Divine Feminine
+
+artistName: Lil Wayne
+songName: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+previewURL: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=null
+albumName: Suicide Squad: The Album
+
+artistName: Ty Dolla $ign
+songName: Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+previewURL: https://p.scdn.co/mp3-preview/4d7e630288b2ba0edd9678c2c186dcc7db3cfb73?cid=null
+albumName: Spotify Session
+
+artistName: Juicy J
+songName: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+previewURL: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=null
+albumName: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+
+artistName: Chance The Rapper
+songName: Blessings
+previewURL: https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=null
+albumName: Coloring Book
+
+artistName: Ace of Base
+songName: The Sign
+previewURL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+albumName: Greatest Hits
+
+artistName: PnB Rock
+songName: Hanging Up My Jersey
+previewURL: https://p.scdn.co/mp3-preview/d9ded55ec6e478c9b68eb206e9f5714440c2c693?cid=null
+albumName: GTTM: Goin Thru the Motions
+
+artistName: Jeremih
+songName: Don't Get Much Better (with Jeremih, Ty Dolla $ign & Sage The Gemini)
+previewURL: https://p.scdn.co/mp3-preview/3cc94552a67418d331614b8687f625efa085f53d?cid=null
+albumName: The Fate of the Furious: The Album
+
+artistName: Ty Dolla $ign
+songName: Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+previewURL: https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=null
+albumName: Blasé (feat. Future & Rae Sremmurd) [Remixes]
+
+artistName: Jeremih
+songName: Don't Get Much Better (with Jeremih, Ty Dolla $ign & Sage The Gemini)
+previewURL: https://p.scdn.co/mp3-preview/3cc94552a67418d331614b8687f625efa085f53d?cid=null
+albumName: Don't Get Much Better (with Jeremih, Ty Dolla $ign & Sage The Gemini)
+
+artistName: Major Lazer
+songName: Boom
+previewURL: https://p.scdn.co/mp3-preview/c75296ad381abcd4ad558189e588dd698e3c0eb5?cid=null
+albumName: Peace Is The Mission (Extended)
+
+artistName: Coldplay
+songName: Warning Sign
+previewURL: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=null
+albumName: A Rush Of Blood To The Head
+
+artistName: Chris Brown
+songName: Nothin' Like Me
+previewURL: https://p.scdn.co/mp3-preview/c8e72c1a12ced753952455cb2145237a0d2a40cb?cid=null
+albumName: Fan of A Fan The Album (Deluxe Version)
+
+artistName: Ty Dolla $ign
+songName: Saved - Live from The Village, Los Angeles
+previewURL: https://p.scdn.co/mp3-preview/fd45b9a85d625d9a00375f7219a440991e6323e9?cid=null
+albumName: Spotify Session
+
+artistName: Ace of Base
+songName: All That She Wants
+previewURL: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: The Sign
+previewURL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: The Sign
+previewURL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+albumName: Greatest Hits
+
+artistName: Ace of Base
+songName: All That She Wants
+previewURL: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: Don't Turn Around
+previewURL: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: Wheel of Fortune
+previewURL: https://p.scdn.co/mp3-preview/fd501a60ee611fda1dbb1c238d802fece5880dfc?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: Living in Danger
+previewURL: https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: Happy Nation
+previewURL: https://p.scdn.co/mp3-preview/b3608534e1f9e52f3dc81bd552d19649c1d4b744?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: The Sign
+previewURL: https://p.scdn.co/mp3-preview/02965a67aeec3b3775c91ec1e391ce164c76e488?cid=null
+albumName: Happy Nation (U.S. Version) [Remastered]
+
+artistName: Ace of Base
+songName: Young and Proud
+previewURL: https://p.scdn.co/mp3-preview/6322361d8997f179653ef9f6f9de1b41ca2cb6b4?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: Dancer in a Daydream
+previewURL: https://p.scdn.co/mp3-preview/6813c9a49363827536bbd2fc98798c99225e5a1a?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: Waiting for Magic - Total Remix 7" Version
+previewURL: https://p.scdn.co/mp3-preview/51c98621614306f9b5be4896d0fc400d0db04235?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: Voulez-Vous danser
+previewURL: https://p.scdn.co/mp3-preview/59e0c99409733c86980e74a829b11e058b2af822?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: The Sign
+previewURL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+albumName: The Sign (The Remixes)
+
+artistName: Ace of Base
+songName: My Mind - Mindless Mix
+previewURL: https://p.scdn.co/mp3-preview/d69b572cb2ab4e83492dbe2b3b2dad747440dd72?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: All That She Wants - Banghra Version
+previewURL: https://p.scdn.co/mp3-preview/25887b631bc11ce0486bd8798d02d6597d889b7e?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: Mr Ace - Demo 1991 Bonus Track
+previewURL: https://p.scdn.co/mp3-preview/0a017e093af7ab63b9609c5391a0ebbec7423553?cid=null
+albumName: The Sign (US Album) [Remastered]
+
+artistName: Ace of Base
+songName: The Sign - Long Version
+previewURL: https://p.scdn.co/mp3-preview/0f314a0cc1fbb59cd6934437bef37eb14b738480?cid=null
+albumName: The Sign (The Remixes)
+
+artistName: Ace of Base
+songName: The Sign
+previewURL: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+albumName: The Sign (The Remixes)
+
+artistName: Ace of Base
+songName: The Sign - Ultimix
+previewURL: https://p.scdn.co/mp3-preview/2c3e2f82c037557abc04c1a2d76b828c4d521838?cid=null
+albumName: The Sign (The Remixes)
+
+artistName: Ace of Base
+songName: The Sign - Long Version
+previewURL: https://p.scdn.co/mp3-preview/ccf516ab83dc899b53817816665cd42388cf6724?cid=null
+albumName: The Sign (The Remixes)
+

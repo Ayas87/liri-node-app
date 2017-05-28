@@ -3,15 +3,15 @@ let fs = require('fs');
 let command = process.argv[2];
 let input = process.argv[3];
 
-function appendLog (param) {
+function appendLog(param) {
     let options = {
         encoding: 'utf8',
     };
-    for(let key in param){
-        fs.appendFileSync('log.txt',key + ": " + param[key] + "\n",[options]);
+    for (let key in param) {
+        fs.appendFileSync('log.txt', key + ": " + param[key] + "\n", [options]);
         console.log(key + ": " + param[key]);
     }
-    fs.appendFileSync('log.txt',"\n",[options]);
+    fs.appendFileSync('log.txt', "\n", [options]);
     console.log();
 }
 
@@ -25,7 +25,8 @@ function getTwitter() {
         trim_user: 1
     };
     let userTweet = {};
-    function Tweet(tweet){
+
+    function Tweet(tweet) {
         this.tweet = tweet;
     }
     client.get('statuses/user_timeline', options, function (error, tweets, response) {
@@ -40,91 +41,109 @@ function getTwitter() {
 function getSpotify(input) {
     let spotify = require('spotify');
     let userSpotifyData = {};
-    function SpotifyData(artistName, songName, previewURL, albumName){
+
+    function SpotifyData(artistName, songName, previewURL, albumName) {
         this.artistName = artistName,
-        this.songName = songName,
-        this.previewURL = previewURL,
-        this.albumName = albumName;
+            this.songName = songName,
+            this.previewURL = previewURL,
+            this.albumName = albumName;
     }
 
-    if (input === null) {
+    if (input === undefined) {
         spotify.search({
             type: 'track',
-            query: 'The Sign',
+            query: 'The Sign Ace of Base',
             limit: 1
-        }, function (err, data){
+        }, function (err, data) {
             if (err) {
                 console.log('Error occurred: ' + err);
                 return;
             }
-            for(i=0; i<data.tracks.items.length; i++){
+            for (i = 0; i < data.tracks.items.length; i++) {
                 let artistName = data.tracks.items[i].artists[0].name;
                 let songName = data.tracks.items[i].name;
                 let previewURL = data.tracks.items[i].preview_url;
                 let albumName = data.tracks.items[i].album.name;
-                userSpotifyData = new SpotifyData (artistName, songName, previewURL, albumName); 
+                userSpotifyData = new SpotifyData(artistName, songName, previewURL, albumName);
                 appendLog(userSpotifyData);
             }
         });
     } else {
-    
-    spotify.search({
-        type: 'track',
-        query: input,
-        limit: 5
-    }, function (err, data) {
-        if (err) {
-            console.log('Error occurred: ' + err);
-            return;
-        }
-        for(i=0; i<data.tracks.items.length; i++){
-            let artistName = data.tracks.items[i].artists[0].name;
-            let songName = data.tracks.items[i].name;
-            let previewURL = data.tracks.items[i].preview_url;
-            let albumName = data.tracks.items[i].album.name;
-            userSpotifyData = new SpotifyData (artistName, songName, previewURL, albumName); 
-            appendLog(userSpotifyData);
-        }
-    });
+        spotify.search({
+            type: 'track',
+            query: input,
+            limit: 5
+        }, function (err, data) {
+            if (err) {
+                console.log('Error occurred: ' + err);
+                return;
+            }
+            for (i = 0; i < data.tracks.items.length; i++) {
+                let artistName = data.tracks.items[i].artists[0].name;
+                let songName = data.tracks.items[i].name;
+                let previewURL = data.tracks.items[i].preview_url;
+                let albumName = data.tracks.items[i].album.name;
+                userSpotifyData = new SpotifyData(artistName, songName, previewURL, albumName);
+                appendLog(userSpotifyData);
+            }
+        });
     }
 }
 
 //IMDB
 function getMovieInfo(input) {
     let request = require('request');
-    let queryUrl = "http://www.omdbapi.com/?t=" + input + "&apikey=40e9cece&y=&plot=short&r=json";
-    if(input === null) {
-        let queryUrl = let queryUrl = "http://www.omdbapi.com/?t=mr+nobody&apikey=40e9cece&y=&plot=short&r=json";
+    if (input === undefined) {
+        let queryUrl = "http://www.omdbapi.com/?t=mr+nobody&apikey=40e9cece&y=&plot=short&r=json";
+        request(queryUrl, function (error, response, body) {
+            if (error) {
+                return console.log(error);
+            }
+            if (!error && response.statusCode === 200) {
+                var bodyParse = JSON.parse(body)
+                console.log('Title: ' + bodyParse.Title);
+                console.log('Year: ' + bodyParse.Year);
+                console.log('IMDB Rating: ' + bodyParse.imdbRating);
+                console.log('Country: ' + bodyParse.Country);
+                console.log('Language: ' + bodyParse.Language);
+                console.log('Actors: ' + bodyParse.Actors);
+                console.log('rotten tomatoes url');
+            } else {
+                console.log('Error ' + response.statusCode + ': No response');
+            }
+        });
+    } else {
+        let queryUrl = "http://www.omdbapi.com/?t=" + input + "&apikey=40e9cece&y=&plot=short&r=json";
+        request(queryUrl, function (error, response, body) {
+            if (error) {
+                return console.log(error);
+            }
+            if (!error && response.statusCode === 200) {
+                var bodyParse = JSON.parse(body)
+                console.log('Title: ' + bodyParse.Title);
+                console.log('Year: ' + bodyParse.Year);
+                console.log('IMDB Rating: ' + bodyParse.imdbRating);
+                console.log('Country: ' + bodyParse.Country);
+                console.log('Language: ' + bodyParse.Language);
+                console.log('Actors: ' + bodyParse.Actors);
+                console.log('rotten tomatoes url');
+            } else {
+                console.log('Error ' + response.statusCode + ': No response');
+            }
+        });
     }
-    request(queryUrl, function (error, response, body) {
-        if (error) {
-            return console.log(error);
-        }
-        if (!error && response.statusCode === 200) {
-            var bodyParse = JSON.parse(body)
-            console.log('Title: ' + bodyParse.Title);
-            console.log('Year: ' + bodyParse.Year);
-            console.log('IMDB Rating: ' + bodyParse.imdbRating);
-            console.log('Country: ' + bodyParse.Country);
-            console.log('Language: ' + bodyParse.Language);
-            console.log('Actors: ' + bodyParse.Actors);
-            console.log('rotten tomatoes url');
-        } else {
-            console.log('Error ' + response.statusCode + ': No response');
-        }
-    });
 }
 
 //Do What It Says
-function getDoWhatItSays(){
-    fs.readFile('random.txt','utf8', function(error, data){
+function getDoWhatItSays() {
+    fs.readFile('random.txt', 'utf8', function (error, data) {
         let newData = data.split(',');
-        liri(newData[0],newData[1])
+        liri(newData[0], newData[1])
     });
 }
 
 //LIRI
-function liri (command, input) {
+function liri(command, input) {
     if (command === 'my-tweets') {
         getTwitter();
     } else if (command === 'spotify-this-song') {
